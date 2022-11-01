@@ -1,1 +1,3 @@
-Ala ma kotai.
+Ala ma kota.
+
+Dodanie nowej eksperymentalnej funkcjonalności
