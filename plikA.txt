@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Funkcjonalnosc A w wersji 2.0
-=======
-Funkcjonalnosc A
->>>>>>> testing
+Ala ma kota i rybki.
