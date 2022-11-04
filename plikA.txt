@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Funkcjonalnosc A w wersji 2.0
+=======
+Funkcjonalnosc A
+>>>>>>> testing
